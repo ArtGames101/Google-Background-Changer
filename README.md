@@ -15,3 +15,12 @@ and lots more!
 Please report any bugs!
 https://github.com/ArtGames101/Google-Background-Changer/issues
 
+# Installation
+
+![1](https://raw.githubusercontent.com/ArtGames101/Google-Background-Changer/master/installationphotos/1.png)
+
+![2](https://raw.githubusercontent.com/ArtGames101/Google-Background-Changer/master/installationphotos/2.png)
+
+![3](https://raw.githubusercontent.com/ArtGames101/Google-Background-Changer/master/installationphotos/3.png)
+
+![4](https://raw.githubusercontent.com/ArtGames101/Google-Background-Changer/master/installationphotos/4.png)
