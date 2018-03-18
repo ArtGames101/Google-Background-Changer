@@ -17,10 +17,13 @@ https://github.com/ArtGames101/Google-Background-Changer/issues
 
 # Installation
 
+## Step 1:
 ![1](https://raw.githubusercontent.com/ArtGames101/Google-Background-Changer/master/installationphotos/1.png)
-
+## Step 2
 ![2](https://raw.githubusercontent.com/ArtGames101/Google-Background-Changer/master/installationphotos/2.png)
-
+## Step 3
 ![3](https://raw.githubusercontent.com/ArtGames101/Google-Background-Changer/master/installationphotos/3.png)
-
+## Step 4
 ![4](https://raw.githubusercontent.com/ArtGames101/Google-Background-Changer/master/installationphotos/4.png)
+
+Done!
