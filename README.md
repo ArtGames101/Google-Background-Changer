@@ -1,6 +1,8 @@
 # Google-Background-Changer
 Changes the Background of Google and many other sites
 
+![vr](https://img.shields.io/badge/Version-3.2-ff69b4.svg) ![build](https://img.shields.io/badge/build-passing-brightgreen.svg)
+
 # Here's some websites this extention works on!
 - Github
 - Google
